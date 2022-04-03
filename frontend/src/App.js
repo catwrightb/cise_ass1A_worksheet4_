@@ -10,6 +10,7 @@ import Home from "./pages/Home";
 import SEPractice from "./pages/SE-Practice";
 import SubmitArticle from "./pages/Submit-Article"; 
 import NotFoundPage from "./pages/404";
+import "./index.css"
 
 const App = () => {
   return (
